@@ -6,7 +6,7 @@ from gtts import gTTS
 import os
 
 # مفاتيح Cohere
-COHERE_API_KEY = "CMMjgh15Yellyy7jnK2299L0o6zzVrviHSIc9OEu"
+COHERE_API_KEY = "API KEY"
 
 # تحميل نموذج Whisper
 model = whisper.load_model("base")
